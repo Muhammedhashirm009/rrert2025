@@ -1,0 +1,13 @@
+{
+  "name": "battery-repair-erp-android",
+  "version": "1.0.0",
+  "description": "Android Battery Repair ERP System",
+  "scripts": {
+    "android:build": "echo 'Use Android Studio or ./gradlew build for Android projects'",
+    "android:clean": "echo 'Use ./gradlew clean for Android projects'",
+    "android:install": "echo 'Use ./gradlew installDebug for Android projects'"
+  },
+  "keywords": ["android", "battery", "repair", "erp"],
+  "author": "Battery Repair ERP",
+  "license": "MIT"
+}
